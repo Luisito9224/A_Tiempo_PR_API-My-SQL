@@ -1,0 +1,67 @@
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API/A_Tiempo_PR_API/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API/A_Tiempo_PR_API/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API/A_Tiempo_PR_API/bin/Debug/netcoreapp3.1/A_Tiempo_PR_API.deps.json
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API/A_Tiempo_PR_API/bin/Debug/netcoreapp3.1/A_Tiempo_PR_API.runtimeconfig.json
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API/A_Tiempo_PR_API/bin/Debug/netcoreapp3.1/A_Tiempo_PR_API.runtimeconfig.dev.json
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API/A_Tiempo_PR_API/bin/Debug/netcoreapp3.1/A_Tiempo_PR_API.dll
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API/A_Tiempo_PR_API/bin/Debug/netcoreapp3.1/A_Tiempo_PR_API.pdb
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API/A_Tiempo_PR_API/obj/Debug/netcoreapp3.1/A_Tiempo_PR_API.csprojAssemblyReference.cache
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API/A_Tiempo_PR_API/obj/Debug/netcoreapp3.1/A_Tiempo_PR_API.AssemblyInfoInputs.cache
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API/A_Tiempo_PR_API/obj/Debug/netcoreapp3.1/A_Tiempo_PR_API.AssemblyInfo.cs
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API/A_Tiempo_PR_API/obj/Debug/netcoreapp3.1/A_Tiempo_PR_API.csproj.CoreCompileInputs.cache
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API/A_Tiempo_PR_API/obj/Debug/netcoreapp3.1/A_Tiempo_PR_API.MvcApplicationPartsAssemblyInfo.cache
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API/A_Tiempo_PR_API/obj/Debug/netcoreapp3.1/staticwebassets/A_Tiempo_PR_API.StaticWebAssets.Manifest.cache
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API/A_Tiempo_PR_API/obj/Debug/netcoreapp3.1/staticwebassets/A_Tiempo_PR_API.StaticWebAssets.xml
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API/A_Tiempo_PR_API/obj/Debug/netcoreapp3.1/scopedcss/bundle/A_Tiempo_PR_API.styles.css
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API/A_Tiempo_PR_API/obj/Debug/netcoreapp3.1/A_Tiempo_PR_API.RazorTargetAssemblyInfo.cache
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API/A_Tiempo_PR_API/obj/Debug/netcoreapp3.1/A_Tiempo_PR_API.dll
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API/A_Tiempo_PR_API/obj/Debug/netcoreapp3.1/A_Tiempo_PR_API.pdb
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API/A_Tiempo_PR_API/obj/Debug/netcoreapp3.1/A_Tiempo_PR_API.genruntimeconfig.cache
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API/A_Tiempo_PR_API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API/A_Tiempo_PR_API/bin/Debug/netcoreapp3.1/System.Data.SqlClient.dll
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API/A_Tiempo_PR_API/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API/A_Tiempo_PR_API/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API/A_Tiempo_PR_API/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API/A_Tiempo_PR_API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API/A_Tiempo_PR_API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API/A_Tiempo_PR_API/obj/Debug/netcoreapp3.1/A_Tiempo_PR_API.csproj.CopyComplete
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/bin/Debug/netcoreapp3.1/A_Tiempo_PR_API.deps.json
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/bin/Debug/netcoreapp3.1/A_Tiempo_PR_API.runtimeconfig.json
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/bin/Debug/netcoreapp3.1/A_Tiempo_PR_API.runtimeconfig.dev.json
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/bin/Debug/netcoreapp3.1/A_Tiempo_PR_API.dll
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/bin/Debug/netcoreapp3.1/A_Tiempo_PR_API.pdb
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/bin/Debug/netcoreapp3.1/BouncyCastle.Crypto.dll
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/bin/Debug/netcoreapp3.1/Google.Protobuf.dll
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/bin/Debug/netcoreapp3.1/K4os.Compression.LZ4.dll
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/bin/Debug/netcoreapp3.1/K4os.Compression.LZ4.Streams.dll
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/bin/Debug/netcoreapp3.1/K4os.Hash.xxHash.dll
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/bin/Debug/netcoreapp3.1/MySql.Data.dll
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/bin/Debug/netcoreapp3.1/Ubiety.Dns.Core.dll
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/bin/Debug/netcoreapp3.1/Zstandard.Net.dll
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/bin/Debug/netcoreapp3.1/Renci.SshNet.dll
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/bin/Debug/netcoreapp3.1/SshNet.Security.Cryptography.dll
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/bin/Debug/netcoreapp3.1/System.Data.SqlClient.dll
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/obj/Debug/netcoreapp3.1/A_Tiempo_PR_API.csprojAssemblyReference.cache
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/obj/Debug/netcoreapp3.1/A_Tiempo_PR_API.AssemblyInfoInputs.cache
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/obj/Debug/netcoreapp3.1/A_Tiempo_PR_API.AssemblyInfo.cs
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/obj/Debug/netcoreapp3.1/A_Tiempo_PR_API.csproj.CoreCompileInputs.cache
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/obj/Debug/netcoreapp3.1/A_Tiempo_PR_API.MvcApplicationPartsAssemblyInfo.cache
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/obj/Debug/netcoreapp3.1/staticwebassets/A_Tiempo_PR_API.StaticWebAssets.Manifest.cache
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/obj/Debug/netcoreapp3.1/staticwebassets/A_Tiempo_PR_API.StaticWebAssets.xml
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/obj/Debug/netcoreapp3.1/scopedcss/bundle/A_Tiempo_PR_API.styles.css
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/obj/Debug/netcoreapp3.1/A_Tiempo_PR_API.RazorTargetAssemblyInfo.cache
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/obj/Debug/netcoreapp3.1/A_Tiempo_PR_API.csproj.CopyComplete
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/obj/Debug/netcoreapp3.1/A_Tiempo_PR_API.dll
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/obj/Debug/netcoreapp3.1/A_Tiempo_PR_API.pdb
+/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/obj/Debug/netcoreapp3.1/A_Tiempo_PR_API.genruntimeconfig.cache

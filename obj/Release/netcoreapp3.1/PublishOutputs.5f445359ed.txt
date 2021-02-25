@@ -1,0 +1,13 @@
+/Users/luisabauzocolon/Desktop/publicar app/appsettings.Development.json
+/Users/luisabauzocolon/Desktop/publicar app/appsettings.json
+/Users/luisabauzocolon/Desktop/publicar app/A_Tiempo_PR_API.dll
+/Users/luisabauzocolon/Desktop/publicar app/A_Tiempo_PR_API.deps.json
+/Users/luisabauzocolon/Desktop/publicar app/A_Tiempo_PR_API.runtimeconfig.json
+/Users/luisabauzocolon/Desktop/publicar app/A_Tiempo_PR_API.pdb
+/Users/luisabauzocolon/Desktop/publicar app/Newtonsoft.Json.dll
+/Users/luisabauzocolon/Desktop/publicar app/System.Data.SqlClient.dll
+/Users/luisabauzocolon/Desktop/publicar app/runtimes/win-arm64/native/sni.dll
+/Users/luisabauzocolon/Desktop/publicar app/runtimes/win-x64/native/sni.dll
+/Users/luisabauzocolon/Desktop/publicar app/runtimes/win-x86/native/sni.dll
+/Users/luisabauzocolon/Desktop/publicar app/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/luisabauzocolon/Desktop/publicar app/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll

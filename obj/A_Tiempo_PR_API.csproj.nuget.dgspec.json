@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/A_Tiempo_PR_API.csproj": {}
+  },
+  "projects": {
+    "/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/A_Tiempo_PR_API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/A_Tiempo_PR_API.csproj",
+        "projectName": "A_Tiempo_PR_API",
+        "projectPath": "/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/A_Tiempo_PR_API.csproj",
+        "packagesPath": "/Users/luisabauzocolon/.nuget/packages/",
+        "outputPath": "/Users/luisabauzocolon/Desktop/A_Tiempo_PR_API My SQL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/luisabauzocolon/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.23, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.8, 3.1.8]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
