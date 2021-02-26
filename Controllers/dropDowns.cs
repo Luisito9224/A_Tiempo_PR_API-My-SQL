@@ -19,7 +19,7 @@ namespace atiempo_api.Controllers
         private MainClass appClass = new MainClass();
         CultureInfo ci = new CultureInfo("es-PR");
 
-        //Se deben enviar las horas una a una desde el app que consuma esta API
+        //Se deben enviar las horas una a una desde el app que consuma esta API  Services: atiempoPR_API
         [HttpGet]
         [Route("conf/careers")]
         public ActionResult getCareers()
